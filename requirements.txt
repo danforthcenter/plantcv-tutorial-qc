@@ -1,2 +1,2 @@
 ipympl
-plantcv
+plantcv==v5.0.0rc1
